@@ -12,6 +12,14 @@ dataset:
    name: "Mnist dataset configuration"
    kind: dataset
 
+dataset_disable:
+ value: ''
+ version: '1.0.0'
+ workspace: 'kuberlab-demo'
+ wizard:
+   name: "datasetdisable"
+   kind: dataset
+
 storage_b:
  value: true
  wizard:
